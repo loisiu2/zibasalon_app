@@ -3,7 +3,7 @@ import pandas as pd
 from datetime import datetime
 
 # Configuración inicial
-st.set_page_config(page_title="ZIBA SALÓN Agenda", page_icon="✂️", layout="wide")
+st.set_page_config(page_title="AVYNA SALON ZIBATA Agenda", page_icon="✂️", layout="wide")
 
 # Estilos personalizados: fondo oscuro con colores ZIBA
 st.markdown("""
@@ -149,4 +149,4 @@ else:
     st.info("Aún no hay recompensas registradas.")
 
 st.markdown("---")
-st.markdown("Desarrollado para ZIBA SALÓN ✂️ | ZIBA REWARDS 💛🖤")
+st.markdown("Desarrollado para AVYNA SALON ZIBATA ✂️ | ZIBA REWARDS 💛🖤")
